@@ -6,7 +6,7 @@ int main()
 	scanf("%d",&num1);
 	printf("Enter Number2 :");
 	scanf("%d",&num2);
-	sum=num1+num2;
-	printf("Addition of given numbers are :%d",sum);
+	sum=num1-num2;
+	printf("Substraction of given numbers are :%d",sum);
 	return 0;
 }
