@@ -1,2 +1,2 @@
 Student Management Project
-This student mamagemnet project is started.
+This student mamagemnet project is starting soon.
